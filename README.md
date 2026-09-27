@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-**Vercel:** `https://vercel.com/hindevedant27-7505s-projects/bits-digital-code-forge-v1`
+**Vercel:** `https://bits-digital-code-forge-v1.vercel.app/`
 
 ## GitHub Repository
 
